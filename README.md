@@ -108,7 +108,10 @@ Universal Music Hub solves the common problem of fragmented music libraries acro
 - OAuth providers
 
 # Dataflow Diagram
-![dataflow diagram](./docs/YT-SC_Dataflow.drawio.png)
+<img src="Docs/YT-SC_Dataflow.drawio.png" alt="Dataflow diagram" />
+
+# Application Architecture Diagram
+<img src="Docs/YT-SC_Architecture.drawio.png" alt="Application Architecture diagram" />
 
 # User Stories and Refinements
 
