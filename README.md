@@ -107,9 +107,9 @@ Universal Music Hub solves the common problem of fragmented music libraries acro
 - SoundCloud API
 - OAuth providers
 
-## Performance & Scalability Features
-- Microservices architecture
-- Load balancing
+# Dataflow Diagram
+![dataflow diagram](./docs/YT-SC_Dataflow.drawio.png)
+
 # User Stories and Refinements
 
 ## High Priority Stories
