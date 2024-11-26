@@ -317,4 +317,15 @@ Each refinement iteration focused on:
 - CDN integration
 - Database optimization
 
+# Trello Screenshots
+
+<p>Initial Setup</p>
+<img src="Docs/Trello Screenshots/Initial Setup.png" width="700"/>
+<p>Day 1</p>
+<img src="Docs/Trello Screenshots/Day 1.png" width="700"/>
+<p>Day 2</p>
+<img src="Docs/Trello Screenshots/Day 2.png" width="700"/>
+<p>Wireframes Completed</p>
+<img src="Docs/Trello Screenshots/Wireframes Completed.png" width="700"/>
+
 
