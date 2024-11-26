@@ -113,6 +113,70 @@ Universal Music Hub solves the common problem of fragmented music libraries acro
 # Application Architecture Diagram
 <img src="Docs/YT-SC_Architecture.drawio.png" alt="Application Architecture diagram" />
 
+# Wireframes
+## Desktop
+<img src="Docs/Wireframes/Desktop.png" alt="All Desktop Wireframes" />
+
+## Individual Desktop Wireframes
+<p float="left">
+   <p>Homepage Before Sign Up </p>
+   <img src="Docs/Wireframes/wireframeJPGS/Desktop/Universal Music Hub Desktop.pdf-1-1.jpg" width="700"/>
+   <img src="Docs/Wireframes/wireframeJPGS/Desktop/Universal Music Hub Desktop.pdf-2-2.jpg" width="700"/>
+   <p>Sign Up Page</p>
+   <img src="Docs/Wireframes/wireframeJPGS/Desktop/Universal Music Hub Desktop.pdf-3-3.jpg" width="700"/>
+   <p>Youtube and SoundCloud Auth Page</p>
+   <img src="Docs/Wireframes/wireframeJPGS/Desktop/Universal Music Hub Desktop.pdf-6-6.jpg" width="700"/>
+   <p>Login Page</p>
+   <img src="Docs/Wireframes/wireframeJPGS/Desktop/Universal Music Hub Desktop.pdf-4-4.jpg" width="700"/>
+   <p>User Dashboard and Library</p>
+   <img src="Docs/Wireframes/wireframeJPGS/Desktop/Universal Music Hub Desktop.pdf-7-7.jpg" width="700"/>
+   <p>Search Page Example</p>
+   <img src="Docs/Wireframes/wireframeJPGS/Desktop/Universal Music Hub Desktop.pdf-8-8.jpg" width="700"/>
+   <p>Playlist Page</p>
+   <img src="Docs/Wireframes/wireframeJPGS/Desktop/Universal Music Hub Desktop.pdf-5-5.jpg" width="700"/>
+   <p>Drop Down Menu Example</p>
+   <img src="Docs/Wireframes/wireframeJPGS/Desktop/Universal Music Hub Desktop.pdf-9-9.jpg" width="700"/>
+   <p>Settings Page</p>
+   <img src="Docs/Wireframes/wireframeJPGS/Desktop/Universal Music Hub Desktop.pdf-10-10.jpg" width="700"/>
+   <p>User Profile Page</p>
+   <img src="Docs/Wireframes/wireframeJPGS/Desktop/Universal Music Hub Desktop.pdf-11-11.jpg" width="700"/>
+   <p>Notifications Page</p>
+   <img src="Docs/Wireframes/wireframeJPGS/Desktop/Universal Music Hub Desktop.pdf-12-12.jpg" width="700"/>
+</p>
+
+## Mobile
+<img src="Docs/Wireframes/Mobile.png" alt="All Mobile Wireframes" />
+
+## Individual Mobile Wireframes
+<p float="left">
+   <p>Homepage Before Sign Up </p>
+   <img src="Docs/Wireframes/wireframeJPGS/Mobile/Universal Music Hub Mobile.pdf-3-3.jpg" width="300"/>
+   <img src="Docs/Wireframes/wireframeJPGS/Mobile/Universal Music Hub Mobile.pdf-7-7.jpg" width="300"/>
+   <p>Sign Up Page</p>
+   <img src="Docs/Wireframes/wireframeJPGS/Mobile/Universal Music Hub Mobile.pdf-4-4.jpg" width="300"/>
+   <p>Youtube and SoundCloud Auth Page</p>
+   <img src="Docs/Wireframes/wireframeJPGS/Mobile/Universal Music Hub Mobile.pdf-8-8.jpg" width="300"/>
+   <p>Login Page</p>
+   <img src="Docs/Wireframes/wireframeJPGS/Mobile/Universal Music Hub Mobile.pdf-1-1.jpg" width="300"/>
+   <p>User Dashboard</p>
+   <img src="Docs/Wireframes/wireframeJPGS/Mobile/Universal Music Hub Mobile.pdf-5-5.jpg" width="300"/>
+   <p>Library</p>
+   <img src="Docs/Wireframes/wireframeJPGS/Mobile/Universal Music Hub Mobile.pdf-6-6.jpg" width="300"/>
+   <p>Search Page Example</p>
+   <img src="Docs/Wireframes/wireframeJPGS/Mobile/Universal Music Hub Mobile.pdf-2-2.jpg" width="300"/>
+   <p>Playlist Page</p>
+   <img src="Docs/Wireframes/wireframeJPGS/Mobile/Universal Music Hub Mobile.pdf-10-10.jpg" width="300"/>
+   <p>Drop Down Menu Example</p>
+   <img src="Docs/Wireframes/wireframeJPGS/Mobile/Universal Music Hub Mobile.pdf-9-9.jpg" width="300"/>
+   <p>Settings Page</p>
+   <img src="Docs/Wireframes/wireframeJPGS/Mobile/Universal Music Hub Mobile.pdf-11-11.jpg" width="300"/>
+   <p>User Profile Page</p>
+   <img src="Docs/Wireframes/wireframeJPGS/Mobile/Universal Music Hub Mobile.pdf-12-12.jpg" width="300"/>
+   <p>Notifications Page</p>
+   <img src="Docs/Wireframes/wireframeJPGS/Mobile/Universal Music Hub Mobile.pdf-13-13.jpg" width="300"/>
+</p>
+
+
 # User Stories and Refinements
 
 ## High Priority Stories
